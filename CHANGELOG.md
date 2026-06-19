@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## Unreleased
+
+### Documentation
+
+* add a Jellyfin ecosystem technical blueprint, repository map, architecture
+  diagrams, build and Docker guidance, branding strategy, phased roadmap, risk
+  register, and first-week implementation plan
+
 ## [3.21.0](https://github.com/standardnotes/app/compare/v3.20.3...v3.21.0) (2022-06-13)
 
 

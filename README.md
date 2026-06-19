@@ -1,5 +1,10 @@
 # Standard Notes
 
+> **Planning document:** This checkout currently contains Standard Notes rather than
+> `jellyfin/jellyfin-packaging`. The requested Jellyfin ecosystem architecture,
+> build, branding, Docker, and roadmap analysis is available in
+> [`docs/jellyfin-platform-blueprint.md`](docs/jellyfin-platform-blueprint.md).
+
 Standard Notes is an end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place.
 
 [![latest release version](https://img.shields.io/github/v/release/standardnotes/app)](https://github.com/standardnotes/app/releases)

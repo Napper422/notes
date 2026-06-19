@@ -1295,3 +1295,8 @@ All notable changes to this project will be documented in this file. See [standa
 * wording ([4c060c0](https://github.com/standardnotes/app/commit/4c060c0ae1524d11368dd41d64f13e2aefe4105c))
 * workspace signout all ([abe9b70](https://github.com/standardnotes/app/commit/abe9b70525825b9fc5df22ed2522b118c7e54b08))
 * zip decrypted backup items together as one file ([79d48b7](https://github.com/standardnotes/app/commit/79d48b7e077394dcf577438bcc54720ceddb8a87))
+
+## [Unreleased]
+
+### Added
+- Added Jellyfin-based streaming platform technical blueprint documentation.
